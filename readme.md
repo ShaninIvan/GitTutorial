@@ -17,6 +17,7 @@ license: [Creative Commons Attribution 3.0 Unported License](https://creativecom
 5. [Термины Git](./5_GitTerms.md)
 6. [Отслеживание файлов и коммиты](./6_Status_and_commits.md)
 7. [Файл .gitignore](./7_GitIgnore.md)
-8. [Создание аккаунта на GitHub и работа с ним](./8_GitHub.md)
+8. [Создание аккаунта на GitHub и создание репозитория](./8_GitHub.md)
+9. [Работа с Git и GitHub](./9_Work_with_Git_and_GithHub.md)
 
 ---
