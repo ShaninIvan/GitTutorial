@@ -19,5 +19,6 @@ license: [Creative Commons Attribution 3.0 Unported License](https://creativecom
 7. [Файл .gitignore](./7_GitIgnore.md)
 8. [Создание аккаунта на GitHub и создание репозитория](./8_GitHub.md)
 9. [Работа с Git и GitHub](./9_Work_with_Git_and_GithHub.md)
+10. [Ветвление в Git](./10_Branchs.md)
 
 ---
