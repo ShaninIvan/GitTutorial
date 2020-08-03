@@ -29,7 +29,7 @@
 2. Введите в поиске ".gitignore Generator". Выбирайте последнюю версию; 
 3. Установите расширение;
 4. Откройте в редакторе папку вашего проекта;
-5. Вызовите команды (ctrl+shift+P) и найдите "Geterate .gitignore File";
+5. Вызовите команды (ctrl+shift+P) и найдите "Generate .gitignore File";
 6. Выберите нужные пункты. В нашем случае хватит только VS Code;
 ![Generator](./assets/GitIgnore/Generator.png)
 
