@@ -33,6 +33,9 @@ git push -u origin master
 ```
 git diff master..origin/master
 ```
+
+В этой конструкции "master" — это название нашей локальной ветки, а "origin/master" — удаленной. 
+
 Чтобы добавить эти изменения в свой локальный репозиторий, используйте команду `git merge`. По сути, `git pull` — это комбинация команд `git fetch` и `git merge`. 
 
 ---
