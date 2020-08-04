@@ -2,10 +2,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![GitLogo](./assets/Git-Logo-1788C.png)
-
-Git Logo by [Jason Long](https://twitter.com/jasonlong), 
-license: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+![GitLogo](./assets/GitTutorialLogo.png)
 
 ---
 
