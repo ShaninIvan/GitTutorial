@@ -18,10 +18,6 @@
 
 ![GitFolder](./assets/GitRepository/GitFolder.png)
 
-Так же в VS Code можно создать репозиторий встроенными средствами. Для этого необходимо на боковой панели слева выбрать "Система управления версиями" и нажать "Initialize Repository". 
-
-![AlternativeCreate](./assets/GitRepository/AlternativeCreate.png)
-
 После создания репозитория, список файлов проекта должен продублироваться в системе управления версиями. 
 
 ---
