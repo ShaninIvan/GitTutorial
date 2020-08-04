@@ -2,7 +2,7 @@
 
 [<-- Назад](./8_GitHub.md)
 [Содержание](./readme.md)
-[Вперед -->](./10_Branchs.md)
+[Вперед -->](./10_Branches.md)
 
 ---
 
@@ -38,4 +38,4 @@ git diff master..origin/master
 ---
 [<-- Назад](./8_GitHub.md)
 [Содержание](./readme.md)
-[Вперед -->](./10_Branchs.md)
+[Вперед -->](./10_Branches.md)
