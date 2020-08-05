@@ -18,6 +18,6 @@ LICENSE: [MIT](./license.md)
 9. [Работа с Git и GitHub](./9_Work_with_Git_and_GithHub.md)
 10. [Ветвление в Git](./10_Branches.md)
 11. [Некоторые другие команды Git](./11_Other_Commands.md)
-12. [Интерфейс VS Code для работы с Git и расширения для него](./12_VSC.md)
+12. [Интерфейс VS Code для работы с Git](./12_VSC.md)
 
 ---
