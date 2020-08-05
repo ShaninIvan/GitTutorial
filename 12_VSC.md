@@ -2,7 +2,7 @@
 
 [<-- Назад](./11_Other_Commands.md)
 [Содержание](./readme.md)
-[Вперед -->](./13_ExtensionForGit.md)
+[Вперед -->](./13_ExtensionsForGit.md)
 
 ---
 
@@ -50,4 +50,4 @@
 ---
 [<-- Назад](./11_Other_Commands.md)
 [Содержание](./readme.md)
-[Вперед -->](./13_ExtensionForGit.md)
+[Вперед -->](./13_ExtensionsForGit.md)
